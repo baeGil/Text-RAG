@@ -30,7 +30,7 @@
 - ✅ Qdrant vector store for fast retriever with HNSW algorithm.
 - ✅ Support multiple documents upload.
 - ✅ Chat history persistence across sessions.
-- ✅ Follow-up technique for lmm to better query.
+- ✅ Follow-up technique for better query.
 - ✅ Semantic chunking for better retriever.
 - ✅ Summarize chat history to reduce memory usage.
 - ✅ Caching data so it consist even when we restart the page web.
