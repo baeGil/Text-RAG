@@ -42,8 +42,8 @@
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/baeGil/Text-rag.git
-cd Text-rag
+git clone https://github.com/baeGil/Text-RAG.git
+cd Text-RAG
 ```
 
 2. **Create virtual environment (optional but recommended):**
