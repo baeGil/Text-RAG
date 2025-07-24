@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+qdrant-client
+redis
+pydantic
+streamlit
+httpx
+google-generativeai
+python-dotenv
+jinja2
+langchain_qdrant
+python-multipart==0.0.20

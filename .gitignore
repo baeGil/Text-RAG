@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment config
+.env
+
+# Ignore some local files
+backend/ragas_service.py
+todo
+rag_app.db
+Demo.gif
+
+# (Optional) Ignore VSCode settings, logs, OS files
+.vscode/
+*.log
+.DS_Store
