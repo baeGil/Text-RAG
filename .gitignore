@@ -9,7 +9,6 @@ __pycache__/
 backend/ragas_service.py
 todo
 rag_app.db
-Demo.gif
 
 # (Optional) Ignore VSCode settings, logs, OS files
 .vscode/
